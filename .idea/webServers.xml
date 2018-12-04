@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://sun@166.111.80.47:5000/usr/bin/python3" name="ssh://sun@166.111.80.47:5000/usr/bin/python3" url="http://166.111.80.47">
+        <fileTransfer host="166.111.80.47" port="5000" rootFolder="/home/sun/Disk/OGeekForSubmit" accessType="SFTP">
+          <option name="port" value="5000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
